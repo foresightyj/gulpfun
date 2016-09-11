@@ -1,0 +1,6 @@
+@import '../variables/colors';
+
+input[type="text"]:hover,
+input[type="text"]:focus {
+    border: 1px solid $primary-color;
+}
